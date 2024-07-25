@@ -25,7 +25,7 @@ A simple React application that displays a list of products and allows users to 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/ananyasrikanth2101/React-useContext-App
+    git clone https://github.com/ananyasrikanth2101/React-useContext-App.git
     cd React-useContext
     ```
 
