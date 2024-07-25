@@ -47,15 +47,15 @@ React-useContext
 │   └── index.html
 ├── src/
 │   ├── components/
-│   │   ├── Cart.js
-│   │   └── ProductList.js
+│   │   ├── Cart.jsx
+│   │   └── ProductList.jsx
 │   ├── context/
-│   │   └── CartContext.js
+│   │   └── CartContext.jsx
 │   ├── data/
 │   │   └── products.json
-│   ├── App.css
-│   ├── App.js
+│   ├── App.jsx
 │   ├── index.css
-│   └── index.js
-├── package.json
+│   └── main.jsx
+├── package.json   
 └── README.md
+
