@@ -22,8 +22,8 @@ A simple React application that displays a list of products and allows users to 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/shopping-cart-app.git
-    cd shopping-cart-app
+    git clone https://github.com/ananyasrikanth2101/React-useContext-App
+    cd React-useContext
     ```
 
 2. Install dependencies:
@@ -35,8 +35,6 @@ A simple React application that displays a list of products and allows users to 
     ```bash
     npm start
     ```
-
-4. Open your browser and navigate to `http://localhost:3000` to see the application in action.
 
 ## Project Structure
 
