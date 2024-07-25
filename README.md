@@ -11,6 +11,10 @@ A simple React application that displays a list of products and allows users to 
 - View the total quantity, sub-total, and total amount in the cart.
 - Shipping is free for all products.
 
+## Deployment:
+
+    Demo Link: https://anan-react-usecontext-app.netlify.app/
+
 ## Technologies Used
 
 - React
