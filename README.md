@@ -12,8 +12,7 @@ A simple React application that displays a list of products and allows users to 
 - Shipping is free for all products.
 
 ## Deployment:
-
-    Demo Link: https://anan-react-usecontext-app.netlify.app/
+ Demo Link: https://anan-react-usecontext-app.netlify.app/
 
 ## Technologies Used
 
